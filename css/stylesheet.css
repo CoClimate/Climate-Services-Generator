@@ -575,6 +575,7 @@ section::after {
 .tp-caption.large_white_bold {
   color: #ffffff;
   font-size: 120px;
+  font-weight:700;
 }
 .tp-caption.large_white_light {
   font-family: 'edmondsans', Arial !important;
