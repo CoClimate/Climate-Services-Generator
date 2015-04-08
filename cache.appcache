@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2015-04-08:v1.2
+# 2015-04-08:v1.3
 
 CACHE:
 favicon.png
@@ -26,6 +26,12 @@ fonts/Edmondsans-Regular-webfont.woff2
 fonts/Edmondsans-Regular-webfont.woff
 fonts/Edmondsans-Regular-webfont.ttf
 fonts/Edmondsans-Regular-webfont.svg
+fonts/Edmondsans-Bold-webfont.eot
+fonts/Edmondsans-Bold-webfont.svg
+fonts/Edmondsans-Bold-webfont.ttf
+fonts/Edmondsans-Bold-webfont.woff
+fonts/Edmondsans-Bold-webfont.woff2
+fonts/Edmondsans-Bold.otf
 
 NETWORK:
 *
