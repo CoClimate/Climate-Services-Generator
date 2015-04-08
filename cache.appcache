@@ -5,17 +5,17 @@ CACHE:
 favicon.png
 index.html
 
-Climate-Services-Generator/img/apple-touch-icon.png
-Climate-Services-Generator/img/cloud_spinner.png
-Climate-Services-Generator/img/coclimate_logo_sm_wh_300px.png
-Climate-Services-Generator/img/coclimate_logo_wh_300px.png
-Climate-Services-Generator/img/spinner_logo.png
-Climate-Services-Generator/img/transparent.png
+img/apple-touch-icon.png
+img/cloud_spinner.png
+img/coclimate_logo_sm_wh_300px.png
+img/coclimate_logo_wh_300px.png
+img/spinner_logo.png
+img/transparent.png
 
 css/stylesheet.css
 css/bootstrap.css
 css/animate.css
-css/font-awesome.min.cs
+css/font-awesome.min.css
 
 js/rs-plugin/css/settings.css
 js/modernizr.custom.32033.js
