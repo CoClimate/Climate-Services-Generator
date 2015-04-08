@@ -1543,13 +1543,13 @@ border-style:none;
 	-	LOADER FORMS	-
 ********************************/
 
-.tp-loader 	{	  
+/*.tp-loader 	{	  
 				top:50%; left:50%; 
 				z-index:10000; 
 				position:absolute;
 				
 
-			}
+			} */
 			
 .tp-loader.spinner0 {
   width: 40px;
