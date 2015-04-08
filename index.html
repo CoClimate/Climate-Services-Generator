@@ -43,6 +43,9 @@
     <meta name="twitter:label2" content="Phenomena, Entities, and Objects">
     <meta name="twitter:data2" content="Form, pattern, activity, skill, sacred, material">
 
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
+	<link rel="apple-touch-startup-image" href="img/startup.png" />
+
 </head>
 
 <body>
@@ -61,7 +64,7 @@
     <header>
                <a class="navbar-brand" href="index.html">
                             <img src="img/coclimate_logo_sm_wh_300px.png" width="60px" alt="" class="logo">
-                        </a><div class="tp-caption large_white_light" align="center" style="padding:40px 0px 0px 0px;">Climate Services Generator</div>
+                        </a><div class="tp-caption large_white_light" align="center" style="padding:40px 0px 0px 0px;">Climate Services Generator: tools for critical futures</div>
                     </div>
 
                    
@@ -100,7 +103,7 @@ item1[3] = "Antarctic";
 item1[4] = "Arctic";
 item1[5] = "Atmospheric";
 item1[6] = "Autumnal";
-item1[7] = "Bedroom";
+item1[7] = "Vertical";
 item1[8] = "Chilling";
 item1[9] = "Climate";
 item1[10] = "Coastal";
@@ -167,6 +170,22 @@ item1[70] = "Polar";
 item1[71] = "Farm";
 item1[72] = "Field";
 item1[73] = "Offshore";
+item1[74] = "Shoreline";
+item1[75] = "Glacial";
+item1[76] = "Waterfront";
+item1[77] = "Marsh";
+item1[78] = "Watershed";
+item1[79] = "Aqueous";
+item1[80] = "Tributary";
+item1[81] = "Peak";
+item1[82] = "Low";
+item1[83] = "High";
+item1[84] = "Rare";
+item1[85] = "Frequent";
+item1[86] = "Stabilizing";
+item1[87] = "Disruptive";
+item1[88] = "Quick";
+item1[89] = "Surface";
 
 item2[0] = "Air";
 item2[1] = "Atmosphere";
@@ -242,6 +261,22 @@ item2[70] = "Travel";
 item2[71] = "Crop";
 item2[72] = "Planting";
 item2[73] = "Growth";
+item2[74] = "Daylight";
+item2[75] = "Eclipse";
+item2[76] = "Icicle";
+item2[77] = "Perspiration";
+item2[78] = "Monsoon";
+item2[79] = "Hydrogen";
+item2[80] = "Nitrogen";
+item2[81] = "Carbon";
+item2[82] = "Silt";
+item2[83] = "Chemical";
+item2[84] = "Mineral";
+item2[85] = "Animal";
+item2[86] = "Population";
+item2[87] = "Decay";
+item2[88] = "Dispersion";
+item2[89] = "Comfort";
 
 item3[0] = "Advisor";
 item3[1] = "Almanac";
@@ -255,7 +290,7 @@ item3[8] = "Calendar";
 item3[9] = "Capacitor";
 item3[10] = "Chiller";
 item3[11] = "Circulator";
-item3[12] = "Stem";
+item3[12] = "Speaker";
 item3[13] = "Condenser";
 item3[14] = "Connector";
 item3[15] = "Counter";
@@ -269,7 +304,7 @@ item3[22] = "Enlarger";
 item3[23] = "Filter";
 item3[24] = "Float";
 item3[25] = "Gateway";
-item3[26] = "Heater";
+item3[26] = "Threshold";
 item3[27] = "Hybridizer";
 item3[28] = "Index";
 item3[29] = "Inverter";
@@ -298,8 +333,8 @@ item3[51] = "Warmer";
 item3[52] = "Banker";
 item3[53] = "Transporter";
 item3[54] = "Vest";
-item3[55] = "Calibrator";
-item3[56] = "Robot";
+item3[55] = "Conditioner";
+item3[56] = "Vector";
 item3[57] = "Controller";
 item3[58] = "Opener";
 item3[59] = "Stabilizer";
@@ -308,20 +343,36 @@ item3[61] = "Ware";
 item3[62] = "Suit";
 item3[63] = "Radio";
 item3[64] = "Platform";
-item3[65] = "Component";
+item3[65] = "Board";
 item3[66] = "Container";
 item3[67] = "Repository";
-item3[68] = "Simulation";
+item3[68] = "Simulator";
 item3[69] = "Analyzer";
 item3[70] = "Gauge";
 item3[71] = "Matrix";
 item3[72] = "Scaffold";
 item3[73] = "Port";
+item3[74] = "Switch";
+item3[75] = "Strengthener";
+item3[76] = "Simplifier";
+item3[77] = "Expander";
+item3[78] = "Gate";
+item3[79] = "Finder";
+item3[80] = "Explorer";
+item3[81] = "Guide";
+item3[82] = "Grower";
+item3[83] = "Minimizer";
+item3[84] = "Helper";
+item3[85] = "Router";
+item3[86] = "Shaper";
+item3[87] = "Fastener";
+item3[88] = "Mover";
+item3[89] = "Clock";
 
 
-var a = Math.floor(74*Math.random())
-var b = Math.floor(74*Math.random())
-var c = Math.floor(74*Math.random())
+var a = Math.floor(90*Math.random())
+var b = Math.floor(90*Math.random())
+var c = Math.floor(90*Math.random())
 var d = Math.floor(0*Math.random())
 var q = Math.floor(20*Math.random())
 
@@ -365,7 +416,7 @@ document.write(item1[a] + "<br>" + item2[b] + "<br>" + item3[c]);
                 </a>
                 <div class="social">
                 <script type="text/javascript">
-                document.write('<a href="https://twitter.com/intent/tweet?text=' + item1[a] + ' ' + item2[b] + ' ' + item3[c] + '&hashtags=climateservices&url=http%3A%2F%2Fcoclimate.github.io%2FClimate-Services-Generator%2F&via=coclimate" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>');
+                document.write('<a href="https://twitter.com/intent/tweet?text=' + item1[a] + ' ' + item2[b] + ' ' + item3[c] + ': tools for critical futures' + '&hashtags=climateservices&url=http%3A%2F%2Fcoclimate.github.io%2FClimate-Services-Generator%2F&via=coclimate" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>');
                 document.write('<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcoclimate.github.io%2FClimate-Services-Generator%2F?t=' + item1[a] + ' ' + item2[b] + ' ' + item3[c] +'" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>');
                 </script>
                 
