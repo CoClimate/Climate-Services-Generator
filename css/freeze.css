@@ -25,11 +25,15 @@
 
 body {
   font-family: 'Edmondsans', Arial;
-  color: #666666;
+  	src: url('fonts/Edmondsans-Regular.otf');
+
+  color: #fff;
   -webkit-font-smoothing: antialiased;
 }
 a {
   font-family: 'Edmondsans', Arial;
+  	src: url('fonts/Edmondsans-Regular.otf');
+
   -webkit-font-smoothing: antialiased;
 }
 div.content {
@@ -536,6 +540,8 @@ section::after {
 }
 .tp-caption {
   font-family: 'Edmondsans', Arial !important;
+  	src: url('fonts/Edmondsans-Regular.otf');
+
   -webkit-font-smoothing: antialiased;
 }
 .tp-caption.large_white_bold {
