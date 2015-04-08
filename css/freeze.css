@@ -16,21 +16,27 @@
   height: 100%;
 }
 
-@font-face 
-{
-    font-family: 'Edmondsans';
-	src: url('fonts/Edmondsans-Regular.otf');
+@font-face {
+    font-family: 'edmondsans';
+    src: url('fonts/Edmondsans-Regular-webfont.eot');
+    src: url('fonts/Edmondsans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Edmondsans-Regular-webfont.woff2') format('woff2'),
+         url('fonts/Edmondsans-Regular-webfont.woff') format('woff'),
+         url('fonts/Edmondsans-Regular-webfont.ttf') format('truetype'),
+         url('fontsEdmondsans-Regular-webfont.svg#edmondsans_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
 }
 
 body {
-  font-family: 'Edmondsans', Arial;
+  font-family: 'edmondsans', Arial;
 
   color: #fff;
   -webkit-font-smoothing: antialiased;
 }
 a {
-  font-family: 'Edmondsans', Arial;
+  font-family: 'edmondsans', Arial;
 
   -webkit-font-smoothing: antialiased;
 }
@@ -537,7 +543,7 @@ section::after {
   z-index: 2;
 }
 .tp-caption {
-  font-family: 'Edmondsans', Arial !important;
+  font-family: 'edmondsans', Arial !important;
   -webkit-font-smoothing: antialiased;
 }
 .tp-caption.large_white_bold {
