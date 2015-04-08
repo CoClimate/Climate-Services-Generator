@@ -532,7 +532,7 @@ section::after {
 }
 .tp-caption.large_white_bold {
   color: #ffffff;
-  font-size: 75px;
+  font-size: xx-large;
   font-weight: 700;
 }
 .tp-caption.large_white_light {
