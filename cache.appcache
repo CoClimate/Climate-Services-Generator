@@ -1,0 +1,30 @@
+CACHE MANIFEST
+CACHE MANIFEST
+# 2015-04-08:v1
+
+# Explicitly cached 'master entries'.
+CACHE:
+favicon.png
+index.html
+/js/stylesheet.css
+/img/apple-touch-icon.png
+/img/cloud_spinner.png
+/img/coclimate_logo_sm_wh_300px.png
+/img/coclimate_logo_wh_300px.png
+/img/spinner_logo.png
+/img/transparent.png
+css/stylesheet.css
+css/bootstrap.css
+css/animate.css
+css/font-awesome.min.cs
+js/rs-plugin/css/settings.css
+js/modernizr.custom.32033.js
+fonts/Edmondsans-Regular-webfont.eot
+fonts/Edmondsans-Regular-webfont.eot
+fonts/Edmondsans-Regular-webfont.woff2
+fonts/Edmondsans-Regular-webfont.woff
+fonts/Edmondsans-Regular-webfont.ttf
+fonts/Edmondsans-Regular-webfont.svg
+
+
+scripts/main.js
