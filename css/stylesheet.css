@@ -18,12 +18,12 @@
 
 @font-face {
     font-family: 'edmondsans';
-    src: url('./fonts/Edmondsans-Regular-webfont.eot');
-    src: url('./fonts/Edmondsans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Edmondsans-Regular-webfont.woff2') format('woff2'),
-         url('./fonts/Edmondsans-Regular-webfont.woff') format('woff'),
-         url('./fonts/Edmondsans-Regular-webfont.ttf') format('truetype'),
-         url('./fonts/Edmondsans-Regular-webfont.svg#edmondsans_regularregular') format('svg');
+    src: url('../fonts/Edmondsans-Regular-webfont.eot');
+    src: url('../fonts/Edmondsans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Edmondsans-Regular-webfont.woff2') format('woff2'),
+         url('../fonts/Edmondsans-Regular-webfont.woff') format('woff'),
+         url('../fonts/Edmondsans-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/Edmondsans-Regular-webfont.svg#edmondsans_regularregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
