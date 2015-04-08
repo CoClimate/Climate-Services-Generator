@@ -19,6 +19,8 @@
 @font-face 
 {
     font-family: 'Edmondsans';
+	src: url('fonts/Edmondsans-Regular.otf');
+
 }
 
 body {
