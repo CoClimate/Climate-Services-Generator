@@ -572,11 +572,18 @@ section::after {
   font-family: 'edmondsansmedium', Arial !important;
   -webkit-font-smoothing: antialiased;
 }
-.tp-caption.large_white_bold {
+.tp-caption.large_white_bold_xs {
   color: #ffffff;
   font-size: 150px;
   font-weight:700;
 }
+
+.tp-caption.large_white_bold {
+  color: #ffffff;
+  font-size: 80px;
+  font-weight:700;
+}
+
 .tp-caption.large_white_light {
   font-family: 'edmondsans', Arial !important;
   color: #ffffff;
