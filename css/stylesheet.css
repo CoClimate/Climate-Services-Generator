@@ -58,10 +58,10 @@
 .cloud.pos1{
   right:20px;
   left:auto;
-  bottom: 100px;
+  bottom: 70px;
 }
 .cloud.pos1 img{
-  width:80px;
+  width:100px;
 }
 .cloud.pos2{
   bottom: 150px;
@@ -77,6 +77,15 @@
 }
 .cloud.pos3 img{
   width:180px;
+}
+
+.cloud.pos4{
+  right:20px;
+  left:auto;
+  top: 120px;
+}
+.cloud.pos4 img{
+  width:100px;
 }
 
 
