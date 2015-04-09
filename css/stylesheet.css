@@ -79,12 +79,6 @@
   width:180px;
 }
 
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-    .cloud pos2 pos3{
-      display: none;
-    }
 
 body {
   font-family: 'edmondsans', Arial;
