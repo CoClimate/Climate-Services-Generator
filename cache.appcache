@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2015-04-08:v1.9
+# 2015-04-08:v1.91
 
 CACHE:
 favicon.png
@@ -11,11 +11,13 @@ img/coclimate_logo_sm_wh_300px.png
 img/coclimate_logo_wh_300px.png
 img/spinner_logo.png
 img/transparent.png
+img/cloud.png
 
 css/stylesheet.css
 css/bootstrap.css
 css/animate.css
 css/font-awesome.min.css
+css/animations.css
 
 js/rs-plugin/css/settings.css
 js/modernizr.custom.32033.js
@@ -26,12 +28,6 @@ fonts/Edmondsans-Regular-webfont.woff2
 fonts/Edmondsans-Regular-webfont.woff
 fonts/Edmondsans-Regular-webfont.ttf
 fonts/Edmondsans-Regular-webfont.svg
-fonts/Edmondsans-Bold-webfont.eot
-fonts/Edmondsans-Bold-webfont.svg
-fonts/Edmondsans-Bold-webfont.ttf
-fonts/Edmondsans-Bold-webfont.woff
-fonts/Edmondsans-Bold-webfont.woff2
-fonts/Edmondsans-Bold.otf
 fonts/Edmondsans-Medium-webfont.eot
 fonts/Edmondsans-Medium-webfont.eot
 fonts/Edmondsans-Medium-webfont.woff2
