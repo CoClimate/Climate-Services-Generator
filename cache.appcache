@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 2015-04-08:v2.1
+# 2015-04-08:v2.2
 
 CACHE:
 favicon.png
@@ -12,6 +12,7 @@ img/coclimate_logo_wh_300px.png
 img/transparent.png
 img/cloud.png
 img/spinner_logo.png
+img/csg_logo.png
 
 css/stylesheet.css
 css/bootstrap.css
